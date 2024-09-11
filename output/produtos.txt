@@ -1,0 +1,5 @@
+batata;29;10
+arroz;20;10
+123;123;123
+baba;3;23
+BATATRA;2;3
